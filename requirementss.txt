@@ -1,0 +1,23 @@
+
+## 运行方式
+推荐使用 Kaggle Notebook：
+1. Kaggle 中挂载 Chest X-Ray Pneumonia 数据集
+2. 直接运行 train.ipynb
+3. 所有结果自动保存至 figures/
+
+## 数据集说明
+数据集名称：Chest X-Ray Images (Pneumonia)
+来源：Kaggle
+链接：https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia
+
+## 一键运行
+```bash
+python train.py
+numpy
+pandas
+matplotlib
+seaborn
+opencv-python
+tensorflow
+scikit-learn
+pillow
